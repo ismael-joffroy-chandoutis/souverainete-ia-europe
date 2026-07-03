@@ -205,3 +205,5 @@ Le levier réellement irremplaçable est en amont, chez ASML. Le reste est const
 ---
 
 Ismaël Joffroy Chandoutis, 2026. Texte sous licence CC BY-NC-ND 4.0.
+
+Par [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).

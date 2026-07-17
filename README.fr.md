@@ -1,8 +1,9 @@
+[English](README.md) · **Français**
+
 # Souveraineté numérique européenne et intelligence artificielle
 
 ## État des lieux 2024-2026
 
-[English](README.md) · **Français**
 
 > Texte critique compagnon, sur le mot « souveraineté » lui-même : [« Souveraineté numérique » : critique d'un concept et lexiques alternatifs](https://github.com/ismael-joffroy-chandoutis/souverainete-numerique-critique).
 

@@ -1,8 +1,9 @@
+**English** · [Français](README.fr.md)
+
 # European digital sovereignty and artificial intelligence
 
 ## State of play 2024-2026
 
-**English** · [Français](README.fr.md)
 
 > Companion critical text, on the word "sovereignty" itself (in French): [« Souveraineté numérique » : critique d'un concept et lexiques alternatifs](https://github.com/ismael-joffroy-chandoutis/souverainete-numerique-critique).
 
